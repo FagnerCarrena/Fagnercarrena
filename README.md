@@ -1,16 +1,20 @@
-### Hi there 👋
+ # Fala Galera, Tudo certo com vocês? 😊 
 
-<!--
-**FagnerCarrena/Fagnercarrena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Fagner, estou em transição de carreira, antes de mais nada devo confessar a vocês que essa jornada não tem sido  fácil, mas tem sido muito satisfatória, cada pequeno conhecimento que ganho fico extremante realizado. Já tive varias profissões, ate concurseiro já fui 😜. Mais mim encontrei no back- end.
+Esse perfil foi feito para adicionar cada pequeno projeto meu, não so em back mas também em front.
 
-Here are some ideas to get you started:
+### Para me encontrar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   
+Linkedin  [https://www.linkedin.com/in/fagner-carrena-4647502a/]
+
+E-mail    [fagnercarrena@yahoo.com.br]
+
+### Hards Skills
+
+JavaScript, CSS, HTML, Node.js, Express, SQL, TypeScript,
+
+  >Toda grande caminhada começa com um simples passo - Buda
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FagnerCarrena)](https://github.com/fagnercarrena)
+
