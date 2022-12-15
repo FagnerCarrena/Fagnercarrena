@@ -1,7 +1,7 @@
  # Fala Galera, Tudo certo com vocês? 😊 
 
-Meu nome é Fagner, estou em transição de carreira, antes de mais nada devo confessar a vocês que essa jornada não tem sido  fácil, mas tem sido muito satisfatória, cada pequeno conhecimento que ganho fico extremante realizado. Já tive varias profissões, ate concurseiro já fui 😜. Mais mim encontrei no back- end.
-Esse perfil foi feito para adicionar cada pequeno projeto meu, não so em back mas também em front.
+Meu nome é Fagner, estou em transição de carreira, antes de mais nada devo confessar a vocês que essa jornada não tem sido fácil, mas tem sido muito satisfatória, pois cada pequeno conhecimento que adquiro fico extremamente realizado. Já tive varias profissões, ate concurseiro já fui 😜 entretanto programaçao é especial.
+de fato, mim encontrei no Back-End. Esse perfil foi feito para adicionar cada pequeno projeto meu, não so em back mas também em front.
 
 ### Para me encontrar:
 
