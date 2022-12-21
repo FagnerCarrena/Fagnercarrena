@@ -6,13 +6,13 @@ de fato, mim encontrei no Back-End. Esse perfil foi feito para adicionar cada pe
 ### Para me encontrar:
 
    
-Linkedin  [https://www.linkedin.com/in/fagner-carrena-4647502a/]
+[Linkedin](https://www.linkedin.com/in/fagner-carrena-4647502a/)
 
-E-mail    [fagnercarrena@yahoo.com.br]
+[E-mail](fagnercarrena@yahoo.com.br)
 
 ### Hards Skills
 
-JavaScript, CSS, HTML, Node.js, Express, SQL, TypeScript,
+JavaScript, CSS, HTML, Node.js, Express, SQL, TypeScript
 
   >Toda grande caminhada começa com um simples passo - Buda
   
