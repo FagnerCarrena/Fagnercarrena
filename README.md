@@ -1,6 +1,6 @@
  # Fala Galera? 😊 
 
-Meu nome é Fagner, estou em transição de carreira, antes de mais nada devo confessar a vocês que essa jornada não tem sido fácil, mas tem sido muito satisfatória, pois cada pequeno conhecimento que adquiro fico extremamente realizado. Já tive varias profissões, ate concurseiro já fui 😜 entretanto programaçao é especial.
+Antes de mais nada è bom dizer que estou em transição de carreira, é bom também confessar a vocês que essa jornada não tem sido fácil, mas tem sido muito satisfatória, pois cada pequeno conhecimento que adquirido fico extremamente realizado. Ser programador é ser paciente e persistente na busca de novos conhecimentos.
 
 <div align="center">
   <a href="https://github.com/fagnercarrena">
