@@ -1,7 +1,6 @@
- # Oiee, Tudo certo com vocês? 😊 
+ # Fala Galera? 😊 
 
 Meu nome é Fagner, estou em transição de carreira, antes de mais nada devo confessar a vocês que essa jornada não tem sido fácil, mas tem sido muito satisfatória, pois cada pequeno conhecimento que adquiro fico extremamente realizado. Já tive varias profissões, ate concurseiro já fui 😜 entretanto programaçao é especial.
-de fato, mim encontrei no Back-End. Esse perfil foi feito para adicionar cada pequeno projeto meu, não so em back mas também em front.
 
 <div align="center">
   <a href="https://github.com/fagnercarrena">
