@@ -1,4 +1,4 @@
- # Fala Galera? 😊 
+ # Fala Galera! 😊 
 
 Antes de mais nada è bom dizer que estou em transição de carreira, é bom também confessar a vocês que essa jornada não tem sido fácil, mas tem sido muito satisfatória, pois cada pequeno conhecimento que adquirido fico extremamente realizado. Ser programador é ser paciente e persistente na busca de novos conhecimentos.
 
