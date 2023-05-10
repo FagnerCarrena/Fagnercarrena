@@ -26,7 +26,7 @@
 <div align="center">
   <a href="https://linkedin.com/in/fagner-carrena-4647502a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- <a href="fagnercarrena@yahoo.com.br" target="_blank">
+ <a href="https://www.fagnercarrena@yahoo.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white"  />
   </a>
  </div>
