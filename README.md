@@ -29,6 +29,10 @@
  <a href="https://www.fagnercarrena@yahoo.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white"  />
   </a>
+  <a href="https://wa.me/5571993488420" target="_blank">
+ <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
  </div>
 
 
