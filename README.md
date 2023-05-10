@@ -20,14 +20,16 @@
   
   ##
  
-<div>
- 
- ###     Para me Encontrar:
 
+ 
+ ###     Para me Encontrar 🐯 :
+<div align="center">
   <a href="https://linkedin.com/in/fagner-carrena-4647502a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- 
-</div>
+ <a href="fagnercarrena@yahoo.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white"  />
+  </a>
+ </div>
 
 
 
@@ -35,7 +37,7 @@
 
 
 
-  >Toda grande caminhada começa com um simples passo - Buda
+  
   
  
 
