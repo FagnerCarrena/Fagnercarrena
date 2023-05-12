@@ -1,9 +1,9 @@
- #  Estou Feliz por sua visita, seja bem vinda(o)!     
+ #   I am happy for your visit, welcome!   
 ###
 
 
--  ⭐ Monitor Back End na [Cubos Academy](https://cubos.academy/)
-- 😹 [Desenvolvedor de Software](https://www.linkedin.com/in/fagnercarrena/) pela [Cubos Academy](https://cubos.academy/)
+-  ⭐ Back End Monitor at [Cubos Academy](https://cubos.academy/)
+- 😹 [Software Developer](https://www.linkedin.com/in/fagnercarrena/) by [Cubos Academy](https://cubos.academy/)
 
 ---
 
