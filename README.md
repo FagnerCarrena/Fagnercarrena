@@ -2,7 +2,6 @@
 ###
 
 
--  ⭐ Back End Monitor at [Cubos Academy](https://cubos.academy/)
 - 😹 [Software Developer](https://www.linkedin.com/in/fagnercarrena/) by [Cubos Academy](https://cubos.academy/)
 
 ---
